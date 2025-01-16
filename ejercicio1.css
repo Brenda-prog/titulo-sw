@@ -1,0 +1,21 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgray;
+}
+
+header{
+    background-color: cornsilk;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+img{
+    size: 10px;
+    width: auto;
+}
